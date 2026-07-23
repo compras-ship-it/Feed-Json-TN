@@ -150,7 +150,7 @@
         <Json>
             <item>
                 <Nombre>Salamandra TR Hogar - Tromen</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Hogares, TROMEN &gt; CALEFACCIÓN &gt; Hogares</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Hogares, TROMEN &gt; CALEFACCIÓN &gt; Hogares, COLD SALE &gt; CALEFACCIÓN &gt; Hogares</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -160,14 +160,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>1280950.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">1152855.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">90.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">76.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">75</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">45</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>01-000-106</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Calefaccioná tu hogar con la Salamandra Tromen TR Hogar: 16.000 kcal/h, doble combustión, visor Schott Robax y diseño insertable. Ideal para espacios de hasta 130 m².</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/salamandra-tr-hogar-tromen</URL>
@@ -179,7 +177,7 @@
         <Json>
             <item>
                 <Nombre>Hogar a Leña Paris Black Tromen 27000 Kcal/h</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Hogares, TROMEN &gt; CALEFACCIÓN &gt; Hogares</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Hogares, TROMEN &gt; CALEFACCIÓN &gt; Hogares, COLD SALE &gt; CALEFACCIÓN &gt; Hogares</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -189,14 +187,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>4774600.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">4297140.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">323.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">110.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">1.2E+2</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">7E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>01-000-109</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Calefactor a leña Tromen Paris Black 27000 Kcal. Máxima potencia, diseño moderno. Incluye guantes térmicos de regalo. Cuotas s/ interés y envíos a todo el país.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/salamandra-paris-black-tromen</URL>
@@ -208,7 +204,7 @@
         <Json>
             <item>
                 <Nombre>Hogar a Leña Ombú Grande Tromen Línea Black 27000 Kcal/h</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Hogares, TROMEN &gt; CALEFACCIÓN &gt; Hogares</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Hogares, TROMEN &gt; CALEFACCIÓN &gt; Hogares, COLD SALE &gt; CALEFACCIÓN &gt; Hogares</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -218,14 +214,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>3696700.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">3327030.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">350.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">78.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">118</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">59</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>01-000-110</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Calefactor a leña Tromen Ombu Grande 27000 Kcal. Gran potencia, diseño moderno e incluye guantes térmicos de regalo.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/salamandra-ombu-grande-tromen</URL>
@@ -237,7 +231,7 @@
         <Json>
             <item>
                 <Nombre>Hogar a Leña Tromen Roma 23000 Kcal Black - Grill West</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Hogares, TROMEN &gt; CALEFACCIÓN &gt; Hogares</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Hogares, TROMEN &gt; CALEFACCIÓN &gt; Hogares, COLD SALE &gt; CALEFACCIÓN &gt; Hogares</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -247,14 +241,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>3706050.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">3335445.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">150.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">66.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">93</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">53</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>01-000-111</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Calefactor a leña Tromen Roma Black 23000 Kcal. Diseño moderno, alto rendimiento y guantes térmicos de regalo para uso seguro.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/salamandra-roma-black-tromen</URL>
@@ -266,7 +258,7 @@
         <Json>
             <item>
                 <Nombre>Hogar a Leña Tromen Ombu Chica 23000 Kcal Black - Grill West</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Hogares, TROMEN &gt; CALEFACCIÓN &gt; Hogares</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Hogares, TROMEN &gt; CALEFACCIÓN &gt; Hogares, COLD SALE &gt; CALEFACCIÓN &gt; Hogares</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -276,14 +268,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>3097850.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">2788065.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">150.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">66.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">93</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">53</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>01-000-112</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Calefactor a leña Tromen Ombu Chica 23000 Kcal. Eficiente, moderno e incluye guantes térmicos de regalo para uso seguro.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/salamandra-ombu-chica-tromen</URL>
@@ -325,7 +315,7 @@
         <Json>
             <item>
                 <Nombre>Calefactor Argentina a Leña Tromen</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras, COLD SALE &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -335,14 +325,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>2192100.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">1972890.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">282.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">120.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">1E+2</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">67</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>01000063</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Hogar Argentina Grill West: potencia para 210 m², encendido rápido, derivadores de calor, refractarios y diseño resistente. Calidez y confort para todo el invierno.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/calefactor-argentina-a-lena-tromen</URL>
@@ -354,7 +342,7 @@
         <Json>
             <item>
                 <Nombre>Calefactor Berlín Tromen</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras, COLD SALE &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -364,14 +352,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>1679400.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">1511460.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">192.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">100.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">74</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">74</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>01000067</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Descubrí la Estufa a Leña Tromen Berlín: potencia de 18.000 Kcal/h, ideal para espacios de hasta 130 m². Diseño robusto y eficiente con doble combustión y materiales refractarios.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/calefactor-berlin-tromen</URL>
@@ -383,7 +369,7 @@
         <Json>
             <item>
                 <Nombre>Salamandra Calefactor a Leña Pehuen 6000 Tromen</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras, COLD SALE &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -393,14 +379,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>561700.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">505530.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">50.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">70.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">45</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">45</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>01000075</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Calefaccioná tu hogar con la salamandra Pehuen 6000 de Tromen. Alto rendimiento y doble combustión. Aprovechá nuestras cuotas sin interés y envío a todo el país.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/calefactor-pehuen-p6000-tromen</URL>
@@ -8417,7 +8401,7 @@
         <Json>
             <item>
                 <Nombre>Hogar a Leña Tromen Lisboa 25000 Kcal Línea Black - Grill West</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Hogares, TROMEN &gt; CALEFACCIÓN &gt; Hogares</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Hogares, TROMEN &gt; CALEFACCIÓN &gt; Hogares, COLD SALE &gt; CALEFACCIÓN &gt; Hogares</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -8427,14 +8411,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>2585600.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">2327040.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">246.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">90.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">1.3E+2</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">6E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>1000077</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Hogar a Leña Insertable Lisboa de Tromen con diseño embutido, visor panorámico y doble combustión. Ideal para climatizar con estilo espacios modernos.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/hogar-a-lena-lisboa-tromen</URL>
@@ -8446,7 +8428,7 @@
         <Json>
             <item>
                 <Nombre>Hogar Austral 15000</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras, COLD SALE &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -8456,14 +8438,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>919000.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">827100.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">74.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">70.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">6E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">5E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>1000095</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Austral 15000 Grill West: estufa compacta con 15.000 Kcal/h, doble combustión, mayor superficie vidriada y bajo consumo. Ideal para climatizar hasta 120 m² con calor uniforme y eficiente.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/hogar-austral-15000</URL>
@@ -8475,7 +8455,7 @@
         <Json>
             <item>
                 <Nombre>Calefactor TR 8000 New Black Tromen</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras, COLD SALE &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -8485,14 +8465,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>1112000.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">1000800.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">76.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">85.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">52</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">49</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>1000104</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Estufa a leña Tromen TR 8000 con visor Schott Robax y diseño New Black. Ideal para espacios medianos. Calefaccioná hasta 80 m² con bajo consumo. Grill West</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/calefactor-tr-8000-new-black-tromen</URL>
@@ -8504,7 +8482,7 @@
         <Json>
             <item>
                 <Nombre>Calefactor Estufa a Leña Pehuen 14000 Tromen</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras, COLD SALE &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -8514,14 +8492,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>1101100.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">990990.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">95.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">79.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">6E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">55</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>1000107</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Descubre el Calefactor Pehuen 14000, con 14.000 Kcal/h, diseño moderno y cristal Schott Robax®. ¡Transforma tu espacio y disfruta del invierno!</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/calefactor-pehuen-14000-tromen</URL>
@@ -8533,7 +8509,7 @@
         <Json>
             <item>
                 <Nombre>Calefactor Estufa a Leña Pehuen 14000 Esquinero Tromen</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras, COLD SALE &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -8543,14 +8519,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>1092350.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">983115.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">95.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">77.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">56</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">55</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>1000114</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Aprovechá tus ambientes con el calefactor Tromen Pehuen 14000 Esquinero de doble combustión. Encontrá la máxima eficiencia y diseño premium en Grill West.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/calefactor-pehuen-14000-esquinero-tromen</URL>
@@ -8562,7 +8536,7 @@
         <Json>
             <item>
                 <Nombre>Calefactor Pehuen 18000 Tromen</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras, COLD SALE &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -8572,14 +8546,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>1197150.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">1077435.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">110.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">80.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">6E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">65</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>1000115</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">El Calefactor Pehuen 18000 es perfecto para quienes buscan una estufa potente, eficiente y de diseño contemporáneo. Ideal para espacios grandes, su alta capacidad de calefacción y durabilidad lo convierten en una de las mejores opciones del mercado.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/calefactor-pehuen-18000-tromen</URL>
@@ -8591,7 +8563,7 @@
         <Json>
             <item>
                 <Nombre>Calefactor Pehuen 18000 Con Horno Tromen</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras, COLD SALE &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -8601,14 +8573,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>1551600.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">1396440.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">131.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">100.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">6E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">62</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>1000116</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Calefaccioná hasta 160 m² y cociná con el horno integrado. Diseño robusto, visor Schott Robax y alto rendimiento. Envíos a todo el país.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/calefactor-pehuen-18000-con-horno-tromen</URL>
@@ -8620,7 +8590,7 @@
         <Json>
             <item>
                 <Nombre>Calefactor Pehuen 24000 Tromen</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras, COLD SALE &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -8630,14 +8600,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>1343150.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">1208835.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">200.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">88.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">7E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">62</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>1000117</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Calefaccioná hasta 220 m² con la estufa a leña más potente de Tromen. Diseño robusto, vidrio Schott Robax y gran eficiencia térmica. Envíos en todo el país.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/calefactor-pehuen-24000-tromen</URL>
@@ -8649,7 +8617,7 @@
         <Json>
             <item>
                 <Nombre>Calefactor Pehuen 24000 con Horno Tromen</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras, COLD SALE &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -8659,17 +8627,69 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>1918900.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">1727010.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">200.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">104.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">7E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">62</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>1000118</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Cociná y calefaccioná hasta 220 m² con la estufa a leña Pehuen 24000 con horno integrado. Potencia de 24.000 Kcal/h, visor Robax y diseño robusto.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/calefactor-pehuen-24000-con-horno-tromen</URL>
+            </item>
+        </Json>
+    </root>
+    <root xmlns:ns="http://www.knime.org/json2xml/originalKey/">
+        <SKU>1000132</SKU>
+        <Json>
+            <item>
+                <Nombre>Estufa a Pellet 7 kW Tromen Linea Black 70m2</Nombre>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Estufas a pellet, TROMEN &gt; CALEFACCIÓN, COLD SALE &gt; CALEFACCIÓN &gt; Estufas a pellet</Categoras>
+                <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
+                </Nombredepropiedad1>
+                <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
+                </Valordepropiedad1>
+                <Nombredepropiedad2 ns:originalKey="Nombre de propiedad 2">
+                </Nombredepropiedad2>
+                <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
+                </Valordepropiedad2>
+                <Precio>3144850.00</Precio>
+                <Preciopromocional ns:originalKey="Precio promocional">2830365.00</Preciopromocional>
+                <Pesokg ns:originalKey="Peso (kg)">70.00</Pesokg>
+                <Altocm ns:originalKey="Alto (cm)">56.00</Altocm>
+                <Anchocm ns:originalKey="Ancho (cm)">52</Anchocm>
+                <Profundidadcm ns:originalKey="Profundidad (cm)">77</Profundidadcm>
+                <Stock>10</Stock>
+                <SKU>1000132</SKU>
+                <DescripcinparaSEO ns:originalKey="Descripción para SEO">Innovación y rendimiento para tu hogar con la Estufa a Pellet Tromen Linea Black. Alta eficiencia técnica. Cuotas sin interés y envíos a todo el país.</DescripcinparaSEO>
+                <URL>https://www.grillwest.com.ar/productos/estufa-a-pellet-7-kw-tromen-linea-black</URL>
+            </item>
+        </Json>
+    </root>
+    <root xmlns:ns="http://www.knime.org/json2xml/originalKey/">
+        <SKU>1000133</SKU>
+        <Json>
+            <item>
+                <Nombre>Estufa a Pellet 10 kW Tromen Linea Black 100m2</Nombre>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Estufas a pellet, TROMEN &gt; CALEFACCIÓN, COLD SALE &gt; CALEFACCIÓN &gt; Estufas a pellet</Categoras>
+                <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
+                </Nombredepropiedad1>
+                <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
+                </Valordepropiedad1>
+                <Nombredepropiedad2 ns:originalKey="Nombre de propiedad 2">
+                </Nombredepropiedad2>
+                <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
+                </Valordepropiedad2>
+                <Precio>3538150.00</Precio>
+                <Preciopromocional ns:originalKey="Precio promocional">3184335.00</Preciopromocional>
+                <Pesokg ns:originalKey="Peso (kg)">96.00</Pesokg>
+                <Altocm ns:originalKey="Alto (cm)">56.00</Altocm>
+                <Anchocm ns:originalKey="Ancho (cm)">51</Anchocm>
+                <Profundidadcm ns:originalKey="Profundidad (cm)">96</Profundidadcm>
+                <Stock>10</Stock>
+                <SKU>1000133</SKU>
+                <DescripcinparaSEO ns:originalKey="Descripción para SEO">Calefacciona hasta 100 m2 con la Estufa a Pellet 10 kW Tromen Linea Black. Alta eficiencia y confort para tu hogar. Descubrila en Grill West.</DescripcinparaSEO>
+                <URL>https://www.grillwest.com.ar/productos/estufa-a-pellet-10-kw-tromen-linea-black</URL>
             </item>
         </Json>
     </root>
@@ -8717,14 +8737,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>483900.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">435510.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">50.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">112.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">32</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">32</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>10010T</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">
                 </DescripcinparaSEO>
@@ -9009,14 +9027,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>211600.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">190440.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">41.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">112.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">32</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">32</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>1004H</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">
                 </DescripcinparaSEO>
@@ -9029,7 +9045,7 @@
         <Json>
             <item>
                 <Nombre>Kit Horno 4" - Tromen</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Accesorios para calefacción, TROMEN &gt; CALEFACCIÓN &gt; Accesorios para calefacción</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Accesorios para calefacción, TROMEN &gt; CALEFACCIÓN &gt; Accesorios para calefacción, COLD SALE &gt; CALEFACCIÓN &gt; Accesorios para calefacción</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -9039,14 +9055,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>130200.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">117180.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">7.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">122.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">12</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">12</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>1004HORNO</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Descubre el Kit Horno Tromen con conductos enlozados y sellador de alta temperatura. Ideal para una instalación segura y eficiente. ¡Compra ahora!</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/kit-horno-4-tromen</URL>
@@ -9068,14 +9082,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>234400.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">210960.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">25.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">60.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">32</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">25</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>1004P</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">
                 </DescripcinparaSEO>
@@ -9088,7 +9100,7 @@
         <Json>
             <item>
                 <Nombre>Kit De Techo Enlozado - Tromen</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Accesorios para calefacción, TROMEN &gt; CALEFACCIÓN &gt; Accesorios para calefacción</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Accesorios para calefacción, TROMEN &gt; CALEFACCIÓN &gt; Accesorios para calefacción, COLD SALE &gt; CALEFACCIÓN &gt; Accesorios para calefacción</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">Tamaño</Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">6"</Valordepropiedad1>
                 <Nombredepropiedad2 ns:originalKey="Nombre de propiedad 2">
@@ -9096,14 +9108,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>308000.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">277200.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">41.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">112.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">32</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">32</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>1004T</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Optimiza tu techo con el Kit Enlozado Tromen. Disponible en 4", 6", 8", 10". Incluye conductos, encamisados, lana de vidrio y más. ¡Compra ahora!</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/kit-de-techo-enlozado-tromen</URL>
@@ -9817,14 +9827,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>475050.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">427545.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">50.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">112.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">32</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">32</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>1008T</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">
                 </DescripcinparaSEO>
@@ -9905,14 +9913,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>483900.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">435510.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">13.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">60.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">3E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">2E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>1010IT</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">
                 </DescripcinparaSEO>
@@ -11983,7 +11989,7 @@
         <SKU>10XVITDECO</SKU>
         <Json>
             <item>
-                <Nombre>Fogonero pequeño 10cm</Nombre>
+                <Nombre>Fogonero de Cemento Cilíndrico 10cm</Nombre>
                 <Categoras ns:originalKey="Categorías">FOGONEROS &gt; Quemadores Bio</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
@@ -11996,10 +12002,10 @@
                 <Precio>16900.00</Precio>
                 <Preciopromocional ns:originalKey="Precio promocional">
                 </Preciopromocional>
-                <Pesokg ns:originalKey="Peso (kg)">3.00</Pesokg>
-                <Altocm ns:originalKey="Alto (cm)">10.00</Altocm>
-                <Anchocm ns:originalKey="Ancho (cm)">1E+1</Anchocm>
-                <Profundidadcm ns:originalKey="Profundidad (cm)">1E+1</Profundidadcm>
+                <Pesokg ns:originalKey="Peso (kg)">3.50</Pesokg>
+                <Altocm ns:originalKey="Alto (cm)">15.00</Altocm>
+                <Anchocm ns:originalKey="Ancho (cm)">15</Anchocm>
+                <Profundidadcm ns:originalKey="Profundidad (cm)">15</Profundidadcm>
                 <Stock>
                 </Stock>
                 <SKU>10XVITDECO</SKU>
@@ -23470,14 +23476,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>308000.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">277200.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">13.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">60.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">3E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">2E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>5000007</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">
                 </DescripcinparaSEO>
@@ -23703,14 +23707,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>155300.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">139770.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">17.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">60.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">32</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">25</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>5000201</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">
                 </DescripcinparaSEO>
@@ -23723,7 +23725,7 @@
         <Json>
             <item>
                 <Nombre>Kit de Techo Inoxidable - Tromen</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Accesorios para calefacción, TROMEN &gt; CALEFACCIÓN &gt; Accesorios para calefacción</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Accesorios para calefacción, TROMEN &gt; CALEFACCIÓN &gt; Accesorios para calefacción, COLD SALE &gt; CALEFACCIÓN &gt; Accesorios para calefacción</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">Tamaño</Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">8"</Valordepropiedad1>
                 <Nombredepropiedad2 ns:originalKey="Nombre de propiedad 2">
@@ -23731,14 +23733,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>475050.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">427545.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">13.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">60.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">3E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">2E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>5000207</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Instalá tu salamandra Tromen con este kit de techo en acero inoxidable. Incluye conductos, encamisado, sombrerete y más. Seguridad y eficiencia garantizadas.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/kit-de-techo-inoxidable-tromen</URL>
@@ -23837,7 +23837,7 @@
         <Json>
             <item>
                 <Nombre>Kit Complemento Pared Enlozado - Tromen</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Accesorios para calefacción, TROMEN &gt; CALEFACCIÓN &gt; Accesorios para calefacción</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Accesorios para calefacción, TROMEN &gt; CALEFACCIÓN &gt; Accesorios para calefacción, COLD SALE &gt; CALEFACCIÓN &gt; Accesorios para calefacción</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">Tamaño</Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">10"</Valordepropiedad1>
                 <Nombredepropiedad2 ns:originalKey="Nombre de propiedad 2">
@@ -23845,14 +23845,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>283000.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">254700.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">30.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">60.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">32</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">25</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>5000222</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Facilitá la instalación de tu salamandra Tromen con este kit completo para salida lateral. Compatible con modelos de 4 y 6 pulgadas, incluye conductos, codos, encamisado y más.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/kit-instalacion-4-6-pulgadas-para-salamandras-tromen</URL>
@@ -23874,14 +23872,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>264450.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">238005.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">30.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">60.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">32</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">25</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>5000228</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">
                 </DescripcinparaSEO>
@@ -25619,8 +25615,7 @@
                 <Altocm ns:originalKey="Alto (cm)">90.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">1.2E+2</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">7E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>50512</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Conocé la Cocina Patagon Chef Classic W45: 4 hornallas, horno reforzado, válvulas de seguridad, encendido electrónico y bandeja profunda. Acero inoxidable de primera calidad y fabricación a pedido.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/cocina-patagon-chef-w45</URL>
@@ -29202,8 +29197,7 @@
                 <Altocm ns:originalKey="Alto (cm)">126.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">131</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">8E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>57012634</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Kamado Argentino Experto 3.0: 131 cm abierto, 80 cm cerrado, 126 cm alto. Precisión, hermeticidad y cocción versátil.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/kamado-profesional-gac-3-0</URL>
@@ -29229,8 +29223,7 @@
                 <Altocm ns:originalKey="Alto (cm)">100.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">6E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">6E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>57012636</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Kamado Grill West 18", cerámico, duradero y eficiente. Ideal para asar, ahumar y hornear al estilo argentino.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/kamado-argentino-porteno</URL>
@@ -29256,8 +29249,7 @@
                 <Altocm ns:originalKey="Alto (cm)">100.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">8E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">8E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>57012637</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">El Kamado Argentino Asador Criollo de Grill West es compacto, versátil y potente. Ideal para asados familiares al estilo argentino</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/kamado-argentino-asador-criollo</URL>
@@ -33731,6 +33723,35 @@
         </Json>
     </root>
     <root xmlns:ns="http://www.knime.org/json2xml/originalKey/">
+        <SKU>65506gc</SKU>
+        <Json>
+            <item>
+                <Nombre>Asador Criollo Malambo Grande 60x117cm de Hierro</Nombre>
+                <Categoras ns:originalKey="Categorías">PARRILLAS &gt; Accesorios para parrillas, FOGONEROS &gt; Accesorios para fogoneros</Categoras>
+                <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
+                </Nombredepropiedad1>
+                <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
+                </Valordepropiedad1>
+                <Nombredepropiedad2 ns:originalKey="Nombre de propiedad 2">
+                </Nombredepropiedad2>
+                <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
+                </Valordepropiedad2>
+                <Precio>155650.00</Precio>
+                <Preciopromocional ns:originalKey="Precio promocional">
+                </Preciopromocional>
+                <Pesokg ns:originalKey="Peso (kg)">26.00</Pesokg>
+                <Altocm ns:originalKey="Alto (cm)">26.00</Altocm>
+                <Anchocm ns:originalKey="Ancho (cm)">66</Anchocm>
+                <Profundidadcm ns:originalKey="Profundidad (cm)">123</Profundidadcm>
+                <Stock>
+                </Stock>
+                <SKU>65506gc</SKU>
+                <DescripcinparaSEO ns:originalKey="Descripción para SEO">Asador criollo Malambo Grande de hierro con base en V y giro 360°. Diseñado especialmente para grandes eventos y cocciones profesionales. Exclusivo de Grill West.</DescripcinparaSEO>
+                <URL>https://www.grillwest.com.ar/productos/asador-criollo-malambo-grande-60x117cm</URL>
+            </item>
+        </Json>
+    </root>
+    <root xmlns:ns="http://www.knime.org/json2xml/originalKey/">
         <SKU>65528</SKU>
         <Json>
             <item>
@@ -34563,8 +34584,7 @@
                 <Altocm ns:originalKey="Alto (cm)">50.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">69</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">3E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>677174</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Estufa de Leña Oslo: diseño francés en hierro fundido, doble combustión y calor eficiente para 210 m².</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/calefactor-insertable-optimo-oslo</URL>
@@ -34952,7 +34972,7 @@
         <SKU>6902221268808</SKU>
         <Json>
             <item>
-                <Nombre>Pinzas Wayu BBQ Master</Nombre>
+                <Nombre>Pinza para Parrilla BBQ Master Wayu de Acero Inoxidable y Madera Acacia 40 cm</Nombre>
                 <Categoras ns:originalKey="Categorías">REGALOS &gt; ACCESORIOS DE COCCIÓN &gt; Tablas y herramientas para asado, ACCESORIOS DE COCCIÓN &gt; Tablas y herramientas para asado</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
@@ -34972,7 +34992,7 @@
                 <Stock>
                 </Stock>
                 <SKU>6902221268808</SKU>
-                <DescripcinparaSEO ns:originalKey="Descripción para SEO">Descubre las Pinzas Wayu BBQ Master, ideales para asados. Acero inoxidable, diseño ergonómico y fácil limpieza.</DescripcinparaSEO>
+                <DescripcinparaSEO ns:originalKey="Descripción para SEO">Domina la parrilla con las pinzas BBQ Master Wayu de acero inoxidable y madera de acacia. Precisión y agarre ergonómico.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/pinzas-wayu-bbq-master</URL>
             </item>
         </Json>
@@ -38814,14 +38834,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>234400.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">210960.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">12.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">50.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">3E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">2E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>7798130430653</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">
                 </DescripcinparaSEO>
@@ -38834,7 +38852,7 @@
         <Json>
             <item>
                 <Nombre>Kit Complemento Pared Inoxidable - Tromen</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Accesorios para calefacción, TROMEN &gt; CALEFACCIÓN &gt; Accesorios para calefacción</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Accesorios para calefacción, TROMEN &gt; CALEFACCIÓN &gt; Accesorios para calefacción, COLD SALE &gt; CALEFACCIÓN &gt; Accesorios para calefacción</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">Tamaño</Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">8"</Valordepropiedad1>
                 <Nombredepropiedad2 ns:originalKey="Nombre de propiedad 2">
@@ -38842,14 +38860,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>264450.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">238005.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">12.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">50.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">3E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">2E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>7798130431056</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Instalá tu salamandra Tromen con este kit de techo en acero inoxidable. Incluye conductos, encamisado, sombrerete y más. Seguridad y eficiencia garantizadas.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/kit-complemento-pared-inoxidable-tromen</URL>
@@ -38861,7 +38877,7 @@
         <Json>
             <item>
                 <Nombre>Kit de Techo Inox 4" - Tromen</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Accesorios para calefacción, TROMEN &gt; CALEFACCIÓN &gt; Accesorios para calefacción</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Accesorios para calefacción, TROMEN &gt; CALEFACCIÓN &gt; Accesorios para calefacción, COLD SALE &gt; CALEFACCIÓN &gt; Accesorios para calefacción</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -38871,14 +38887,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>211600.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">190440.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">14.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">50.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">3E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">25</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>7798130431827</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Kit de 4 conductos, encamisados, sombrerete y más para instalación eficiente. Ideal para sistemas de ventilación.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/kit-de-techo-inox-4-tromen</URL>
@@ -38900,14 +38914,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>155300.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">139770.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">12.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">50.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">3E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">2E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>7798130431834</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">
                 </DescripcinparaSEO>
@@ -38930,14 +38942,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>283000.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">254700.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">12.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">50.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">3E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">2E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>7798130432534</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">
                 </DescripcinparaSEO>
@@ -38950,7 +38960,7 @@
         <Json>
             <item>
                 <Nombre>Calefactor a Leña Austral 15000 Tromen con Horno</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras, COLD SALE &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -38960,14 +38970,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>986300.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">887670.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">110.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">113.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">66</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">73</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>7798130433616</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Pehuen 15000 Grill West: calefactor con horno integrado, 15.000 Kcal/h, doble templador, refractarios regulables y diseño moderno. Calor eficiente y cocina envolvente en un solo equipo.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/calefactor-a-lena-austral-15000-tromen-con-horno</URL>
@@ -46546,7 +46554,7 @@
         <Json>
             <item>
                 <Nombre>Kit Zeta Calefaccion - Tromen</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Accesorios para calefacción, TROMEN &gt; CALEFACCIÓN &gt; Accesorios para calefacción</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Accesorios para calefacción, TROMEN &gt; CALEFACCIÓN &gt; Accesorios para calefacción, COLD SALE &gt; CALEFACCIÓN &gt; Accesorios para calefacción</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -46556,14 +46564,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>109800.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">98820.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">3.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">47.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">23</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">16</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>95023110</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Set de herramientas Tromen con atizador, escobilla y pala, mangos de madera y base organizadora. Diseño moderno y funcional para estufas, hogares y parrillas.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/Kit-Zeta-Calefaccion</URL>
@@ -47465,8 +47471,7 @@
                 <Altocm ns:originalKey="Alto (cm)">85.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">75</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">75</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>AA1786</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Transforma tu cocina exterior con el soporte Gozney Arc. Resistente, maniobrable, con alas ajustables y ruedas con bloqueo. ¡Optimiza tu experiencia!</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/base-para-horno-arc-gozney</URL>
@@ -48452,8 +48457,7 @@
                 <Altocm ns:originalKey="Alto (cm)">57.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">85</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">65</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>AD1586</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Soporte Gozney Dome y dome S1 Stand: estructura con ruedas, estantes de bambú, alas laterales y ganchos. Montaje fácil y altura ideal para cocinar al aire libre. ¡Movelo donde quieras!</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/base-horno-dome-y-dome-s1-gozney</URL>
@@ -51322,7 +51326,7 @@
         <Json>
             <item>
                 <Nombre>Calefactor a Leña Austral 7000 Tromen</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras, COLD SALE &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -51332,14 +51336,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>520250.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">468225.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">40.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">54.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">44</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">41</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>AUSTRAL7000</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Descubrí el Calefactor a Leña Tromen Austral 7000, con 7.000 Kcal/h de potencia, ideal para climatizar espacios de hasta 65 m². Diseño moderno, doble combustión y alta eficiencia térmica.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/calefactor-a-lena-austral-7000-tromen</URL>
@@ -51351,7 +51353,7 @@
         <Json>
             <item>
                 <Nombre>Calefactor a Leña Austral 9000 Tromen</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras, COLD SALE &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -51361,14 +51363,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>633400.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">570060.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">45.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">41.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">47</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">66</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>AUSTRAL9000</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Austral 9000 Grill West: calefactor accesible con 9.000 Kcal/h, piso enlozado, gran superficie vidriada y doble combustión. Ideal para climatizar hasta 90 m² con calor potente y uniforme.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/calefactor-a-lena-austral-9000-tromen</URL>
@@ -52148,8 +52148,7 @@
                 <Altocm ns:originalKey="Alto (cm)">170.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">1.7E+2</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">5E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>BBQ01SS</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Parrilla BBQ SS01 Tagwood de acero inoxidable con plancha, brasero gaucho, rejillas regulables y mesa auxiliar. Medidas: 160x170x50 cm. Ideal para asados.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/parrilla-ss01-acero-inoxidable-tagwood-bbq</URL>
@@ -52177,8 +52176,7 @@
                 <Altocm ns:originalKey="Alto (cm)">290.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">155</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">1.1E+2</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>BBQ02SI</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Parrilla BBQ Iron 02 Tagwood con plancha, cesta para asar, rejillas regulables y fondo de ladrillo refractario. Medidas: 277x155x110 cm. Ideal para asados.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/parrilla-iron-02-tagwood-bbq</URL>
@@ -52206,8 +52204,7 @@
                 <Altocm ns:originalKey="Alto (cm)">160.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">1.7E+2</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">5E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>BBQ03SS</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Parrilla BBQ SS03 Tagwood de acero inoxidable con plancha, sistema de ajuste de altura, brasero gaucho y mesa auxiliar. Medidas: 160x170x50 cm.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/parrilla-ss03-inoxidable-tagwood-bbq</URL>
@@ -55229,8 +55226,7 @@
                 <Altocm ns:originalKey="Alto (cm)">5.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">5E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">5E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>CAJAX26MDAP15CM</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Descubre el elegante Juego de Cubiertos x12 y Trinchar de Madera y Alpaca 15cm. Perfecto para cualquier ocasión. ¡Compra ahora y mejora tus comidas!</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/juego-de-cubiertos-para-12-comensales-juego-trinchar-15-cm</URL>
@@ -55258,8 +55254,7 @@
                 <Altocm ns:originalKey="Alto (cm)">10.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">4E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">5E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>CAJAX6EBANALP</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Caja con 6 juegos de cubiertos en ébano y alpaca, artesanales y de alta calidad. Producto 100% argentino.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/caja-juego-cubiertos-6-comensales-ebano-y-alpaca</URL>
@@ -55271,7 +55266,7 @@
         <Json>
             <item>
                 <Nombre>Calefactor a Leña Calafate - Tromen</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras, COLD SALE &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -55281,14 +55276,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>1649250.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">1484325.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">237.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">120.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">91</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">62</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>CALAFATE</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Calafate Grill West: potencia de 16.000 Kcal/h, ladrillos refractarios, derivadores de calor, encendido rápido y diseño robusto. Ideal para climatizar hasta 130 m² con calidez envolvente.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/calefactor-a-lena-calafate-tromen</URL>
@@ -56608,7 +56601,7 @@
         <Json>
             <item>
                 <Nombre>Calefactor Chalten a Leña -Tromen</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras, COLD SALE &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -56618,14 +56611,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>1422600.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">1280340.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">114.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">84.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">7E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">55</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>CHALTEN</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Conocé la Salamandra Chaltén de Grill West: 9.000 Kcal/h, refractarios, derivador posterior, encendido rápido y diseño clásico. Calefacción potente y constante para hasta 110 m².</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/calefactor-chalten-a-lena-tromen</URL>
@@ -59234,8 +59225,7 @@
                 <Altocm ns:originalKey="Alto (cm)">80.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">1.2E+2</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">2.3E+2</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>CMBFLK</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">
                 </DescripcinparaSEO>
@@ -59262,8 +59252,7 @@
                 <Altocm ns:originalKey="Alto (cm)">80.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">1.2E+2</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">2.3E+2</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>CMBFLKNGR</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Encontrá todo lo que necesitas para tu hogar en Grill West. Comprá parrillas, hogares y más con envío a todo el país, cuotas sin interés y total seguridad en tu compra. ¡Aprovecha nuestras ofertas y disfruta de las mejores marcas con Grill West! ?</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/fogonero-asador-floki</URL>
@@ -59291,8 +59280,7 @@
                 <Altocm ns:originalKey="Alto (cm)">85.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">1.4E+2</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">1.4E+2</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>CMBODN</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">
                 </DescripcinparaSEO>
@@ -59319,8 +59307,7 @@
                 <Altocm ns:originalKey="Alto (cm)">85.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">1.4E+2</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">1.4E+2</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>CMBODNNGR</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Asador de pie de 135 cm: hierro y quebracho, incluye parrilla, brasero y plancha. Ideal para grandes asados, fácil de trasladar.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/fogonero-asador-odin</URL>
@@ -61238,8 +61225,7 @@
                 <Altocm ns:originalKey="Alto (cm)">9.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">13</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">38</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>CUCHIX6EBANALP</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Juego de Cuchillos de Alpaca x6: hoja de 12,7 cm, largo total 24 cm. Precisión, estilo y equilibrio perfecto en cada corte.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/juego-de-cuchillos-de-alpaca-x6</URL>
@@ -61790,8 +61776,7 @@
                 <Altocm ns:originalKey="Alto (cm)">7.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">3E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">18</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>DAMSCMADALP15CM</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Cuchillo Hoja Damasco Mango Ebano Y Alpaca 15 Cm</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/cuchillo-hoja-damasco-mango-ebano-y-alpaca-15-cm</URL>
@@ -62903,6 +62888,35 @@
         </Json>
     </root>
     <root xmlns:ns="http://www.knime.org/json2xml/originalKey/">
+        <SKU>DISPGASPICVUL</SKU>
+        <Json>
+            <item>
+                <Nombre>Quemador A Gas Para Horno Neoforni Piccolo Y Vulcano</Nombre>
+                <Categoras ns:originalKey="Categorías">HORNOS &gt; Accesorios para hornos</Categoras>
+                <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
+                </Nombredepropiedad1>
+                <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
+                </Valordepropiedad1>
+                <Nombredepropiedad2 ns:originalKey="Nombre de propiedad 2">
+                </Nombredepropiedad2>
+                <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
+                </Valordepropiedad2>
+                <Precio>502600.00</Precio>
+                <Preciopromocional ns:originalKey="Precio promocional">
+                </Preciopromocional>
+                <Pesokg ns:originalKey="Peso (kg)">5.00</Pesokg>
+                <Altocm ns:originalKey="Alto (cm)">45.00</Altocm>
+                <Anchocm ns:originalKey="Ancho (cm)">2E+1</Anchocm>
+                <Profundidadcm ns:originalKey="Profundidad (cm)">2E+1</Profundidadcm>
+                <Stock>
+                </Stock>
+                <SKU>DISPGASPICVUL</SKU>
+                <DescripcinparaSEO ns:originalKey="Descripción para SEO">Convertí tu horno Neoforni Piccolo o Vulcano a gas. Fácil instalación y control de temperatura hasta 450°C. Encontralo en Grill West.</DescripcinparaSEO>
+                <URL>https://www.grillwest.com.ar/productos/quemador-a-gas-para-horno-neoforni-piccolo-y-vulcano-1n6i0</URL>
+            </item>
+        </Json>
+    </root>
+    <root xmlns:ns="http://www.knime.org/json2xml/originalKey/">
         <SKU>DUELARA40</SKU>
         <Json>
             <item>
@@ -63256,7 +63270,7 @@
         <Json>
             <item>
                 <Nombre>Calefactor a Leña Eco 7000 - Tromen</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras, COLD SALE &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -63266,14 +63280,12 @@
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>386250.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">347625.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">36.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">54.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">46</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">41</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>ECO7000</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Salamandra 7000 Kcal/h Tromen, doble combustión, 46x53.9x40.9 cm, para hasta 60 mt2. No incluye kit instalación.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/calefactor-a-lena-eco-7000-tromen</URL>
@@ -68201,8 +68213,7 @@
                 <Altocm ns:originalKey="Alto (cm)">67.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">75</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">65</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>GDPCMUS1239</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Conocé el Gozney Dome, Hueso  el primer horno pizzero de la marca que cambió la forma de cocinar al aire libre. Diseño profesional, múltiples combustibles y resultados perfectos a 500 °C.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/horno-pizzero-dual-gozney-dome-bone</URL>
@@ -68895,8 +68906,7 @@
                 <Altocm ns:originalKey="Alto (cm)">5.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">5E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">5E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>GOROPARRTREN</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Completa tu mesa con nuestro Juego De Cubiertos X12 + Juego Trinchar Retejido 15cm. Alta calidad, diseño elegante y perfecto para cualquier ocasión. ¡Compra ahora!</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/juego-de-cubiertos-12-comensales-juego-trinchar-retejido-15cm</URL>
@@ -69069,8 +69079,7 @@
                 <Altocm ns:originalKey="Alto (cm)">7.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">3E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">18</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>GORORETEJ15CM</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Cuchillo Damasco Retejido Tiento de Potro  15 Cm.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/cuchillo-hoja-damasco-mango-retejido-tiento-de-potro-15-cm</URL>
@@ -71103,15 +71112,71 @@
         </Json>
     </root>
     <root xmlns:ns="http://www.knime.org/json2xml/originalKey/">
+        <SKU>HOR-50N</SKU>
+        <Json>
+            <item>
+                <Nombre>Fogonero de Hierro Rectangular a Bioetanol Modelo HOR-50</Nombre>
+                <Categoras ns:originalKey="Categorías">
+                </Categoras>
+                <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">Color</Nombredepropiedad1>
+                <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">Negro</Valordepropiedad1>
+                <Nombredepropiedad2 ns:originalKey="Nombre de propiedad 2">
+                </Nombredepropiedad2>
+                <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
+                </Valordepropiedad2>
+                <Precio>199920.00</Precio>
+                <Preciopromocional ns:originalKey="Precio promocional">
+                </Preciopromocional>
+                <Pesokg ns:originalKey="Peso (kg)">15.00</Pesokg>
+                <Altocm ns:originalKey="Alto (cm)">55.00</Altocm>
+                <Anchocm ns:originalKey="Ancho (cm)">15</Anchocm>
+                <Profundidadcm ns:originalKey="Profundidad (cm)">15</Profundidadcm>
+                <Stock>
+                </Stock>
+                <SKU>HOR-50N</SKU>
+                <DescripcinparaSEO ns:originalKey="Descripción para SEO">Fogonero de hierro rectangular HOR-50 a bioetanol con piedras volcánicas. Sin humo ni cenizas, ideal para interior o exterior. Descubrí el catálogo Grill West.</DescripcinparaSEO>
+                <URL>https://www.grillwest.com.ar/productos/fogonero-de-hierro-rectangular-a-bioetanol-50</URL>
+            </item>
+        </Json>
+    </root>
+    <root xmlns:ns="http://www.knime.org/json2xml/originalKey/">
+        <SKU>HOR-50O</SKU>
+        <Json>
+            <item>
+                <Nombre>
+                </Nombre>
+                <Categoras ns:originalKey="Categorías">
+                </Categoras>
+                <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">Color</Nombredepropiedad1>
+                <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">Óxido</Valordepropiedad1>
+                <Nombredepropiedad2 ns:originalKey="Nombre de propiedad 2">
+                </Nombredepropiedad2>
+                <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
+                </Valordepropiedad2>
+                <Precio>166600.00</Precio>
+                <Preciopromocional ns:originalKey="Precio promocional">
+                </Preciopromocional>
+                <Pesokg ns:originalKey="Peso (kg)">15.00</Pesokg>
+                <Altocm ns:originalKey="Alto (cm)">55.00</Altocm>
+                <Anchocm ns:originalKey="Ancho (cm)">15</Anchocm>
+                <Profundidadcm ns:originalKey="Profundidad (cm)">15</Profundidadcm>
+                <Stock>
+                </Stock>
+                <SKU>HOR-50O</SKU>
+                <DescripcinparaSEO ns:originalKey="Descripción para SEO">
+                </DescripcinparaSEO>
+                <URL>https://www.grillwest.com.ar/productos/fogonero-de-hierro-rectangular-a-bioetanol-50</URL>
+            </item>
+        </Json>
+    </root>
+    <root xmlns:ns="http://www.knime.org/json2xml/originalKey/">
         <SKU>HOR-70N</SKU>
         <Json>
             <item>
-                <Nombre>Fogonero de Hierro Rectangular Modelo HOR-70</Nombre>
+                <Nombre>Fogonero de Hierro Rectangular HOR-70</Nombre>
                 <Categoras ns:originalKey="Categorías">FOGONEROS &gt; Quemadores Bio</Categoras>
-                <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
-                </Nombredepropiedad1>
-                <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
-                </Valordepropiedad1>
+                <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">Color</Nombredepropiedad1>
+                <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">Negro</Valordepropiedad1>
                 <Nombredepropiedad2 ns:originalKey="Nombre de propiedad 2">
                 </Nombredepropiedad2>
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
@@ -71119,10 +71184,10 @@
                 <Precio>191900.00</Precio>
                 <Preciopromocional ns:originalKey="Precio promocional">
                 </Preciopromocional>
-                <Pesokg ns:originalKey="Peso (kg)">20.00</Pesokg>
-                <Altocm ns:originalKey="Alto (cm)">10.00</Altocm>
-                <Anchocm ns:originalKey="Ancho (cm)">1E+1</Anchocm>
-                <Profundidadcm ns:originalKey="Profundidad (cm)">7E+1</Profundidadcm>
+                <Pesokg ns:originalKey="Peso (kg)">23.00</Pesokg>
+                <Altocm ns:originalKey="Alto (cm)">15.00</Altocm>
+                <Anchocm ns:originalKey="Ancho (cm)">15</Anchocm>
+                <Profundidadcm ns:originalKey="Profundidad (cm)">75</Profundidadcm>
                 <Stock>
                 </Stock>
                 <SKU>HOR-70N</SKU>
@@ -71135,12 +71200,12 @@
         <SKU>HOR-70O</SKU>
         <Json>
             <item>
-                <Nombre>Quemador Bio 70 Cm</Nombre>
-                <Categoras ns:originalKey="Categorías">FOGONEROS &gt; Quemadores Bio</Categoras>
-                <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
-                </Nombredepropiedad1>
-                <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
-                </Valordepropiedad1>
+                <Nombre>
+                </Nombre>
+                <Categoras ns:originalKey="Categorías">
+                </Categoras>
+                <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">Color</Nombredepropiedad1>
+                <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">Óxido</Valordepropiedad1>
                 <Nombredepropiedad2 ns:originalKey="Nombre de propiedad 2">
                 </Nombredepropiedad2>
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
@@ -71148,15 +71213,16 @@
                 <Precio>191900.00</Precio>
                 <Preciopromocional ns:originalKey="Precio promocional">
                 </Preciopromocional>
-                <Pesokg ns:originalKey="Peso (kg)">4.00</Pesokg>
-                <Altocm ns:originalKey="Alto (cm)">10.00</Altocm>
-                <Anchocm ns:originalKey="Ancho (cm)">7E+1</Anchocm>
-                <Profundidadcm ns:originalKey="Profundidad (cm)">15</Profundidadcm>
+                <Pesokg ns:originalKey="Peso (kg)">23.00</Pesokg>
+                <Altocm ns:originalKey="Alto (cm)">15.00</Altocm>
+                <Anchocm ns:originalKey="Ancho (cm)">15</Anchocm>
+                <Profundidadcm ns:originalKey="Profundidad (cm)">75</Profundidadcm>
                 <Stock>
                 </Stock>
                 <SKU>HOR-70O</SKU>
-                <DescripcinparaSEO ns:originalKey="Descripción para SEO">Disfruta del Quemador Bio de hierro, ideal para espacios interiores y exteriores. Seguro, sin humo y portátil. ¡Haz tu compra ahora!</DescripcinparaSEO>
-                <URL>https://www.grillwest.com.ar/productos/quemador-bio-70-cm</URL>
+                <DescripcinparaSEO ns:originalKey="Descripción para SEO">
+                </DescripcinparaSEO>
+                <URL>https://www.grillwest.com.ar/productos/fogonero-de-hierro-rectangular-modelo-hor-70</URL>
             </item>
         </Json>
     </root>
@@ -71447,6 +71513,83 @@
                 <SKU>HORNO90V</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Horno TST CFH90 Luxe</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/horno-cfh90-luxe-corbelli</URL>
+            </item>
+        </Json>
+    </root>
+    <root xmlns:ns="http://www.knime.org/json2xml/originalKey/">
+        <SKU>HORNONAPOLI</SKU>
+        <Json>
+            <item>
+                <Nombre>Horno Pizzero a Leña Napolitano Neoforni Napoli</Nombre>
+                <Categoras ns:originalKey="Categorías">HORNOS &gt; Hornos a leña / pellet</Categoras>
+                <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">Color</Nombredepropiedad1>
+                <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">Bordó</Valordepropiedad1>
+                <Nombredepropiedad2 ns:originalKey="Nombre de propiedad 2">
+                </Nombredepropiedad2>
+                <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
+                </Valordepropiedad2>
+                <Precio>6433500.00</Precio>
+                <Preciopromocional ns:originalKey="Precio promocional">
+                </Preciopromocional>
+                <Pesokg ns:originalKey="Peso (kg)">90.00</Pesokg>
+                <Altocm ns:originalKey="Alto (cm)">83.00</Altocm>
+                <Anchocm ns:originalKey="Ancho (cm)">1.1E+2</Anchocm>
+                <Profundidadcm ns:originalKey="Profundidad (cm)">163</Profundidadcm>
+                <Stock>
+                </Stock>
+                <SKU>HORNONAPOLI</SKU>
+                <DescripcinparaSEO ns:originalKey="Descripción para SEO">Cociná pizzas napolitanas en 90 segundos con el Horno a Leña Neoforni Napoli. Alta temperatura, eficiencia y diseño premium. Conocelo en Grill West.</DescripcinparaSEO>
+                <URL>https://www.grillwest.com.ar/productos/horno-pizzero-a-lena-napolitano-neoforni-napoli-ik5yu</URL>
+            </item>
+            <item>
+                <Nombre>
+                </Nombre>
+                <Categoras ns:originalKey="Categorías">
+                </Categoras>
+                <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">Color</Nombredepropiedad1>
+                <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">Negro</Valordepropiedad1>
+                <Nombredepropiedad2 ns:originalKey="Nombre de propiedad 2">
+                </Nombredepropiedad2>
+                <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
+                </Valordepropiedad2>
+                <Precio>6433500.00</Precio>
+                <Preciopromocional ns:originalKey="Precio promocional">
+                </Preciopromocional>
+                <Pesokg ns:originalKey="Peso (kg)">90.00</Pesokg>
+                <Altocm ns:originalKey="Alto (cm)">83.00</Altocm>
+                <Anchocm ns:originalKey="Ancho (cm)">1.1E+2</Anchocm>
+                <Profundidadcm ns:originalKey="Profundidad (cm)">163</Profundidadcm>
+                <Stock>
+                </Stock>
+                <SKU>HORNONAPOLI</SKU>
+                <DescripcinparaSEO ns:originalKey="Descripción para SEO">
+                </DescripcinparaSEO>
+                <URL>https://www.grillwest.com.ar/productos/horno-pizzero-a-lena-napolitano-neoforni-napoli-ik5yu</URL>
+            </item>
+            <item>
+                <Nombre>
+                </Nombre>
+                <Categoras ns:originalKey="Categorías">
+                </Categoras>
+                <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">Color</Nombredepropiedad1>
+                <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">Verde</Valordepropiedad1>
+                <Nombredepropiedad2 ns:originalKey="Nombre de propiedad 2">
+                </Nombredepropiedad2>
+                <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
+                </Valordepropiedad2>
+                <Precio>6433500.00</Precio>
+                <Preciopromocional ns:originalKey="Precio promocional">
+                </Preciopromocional>
+                <Pesokg ns:originalKey="Peso (kg)">90.00</Pesokg>
+                <Altocm ns:originalKey="Alto (cm)">83.00</Altocm>
+                <Anchocm ns:originalKey="Ancho (cm)">1.1E+2</Anchocm>
+                <Profundidadcm ns:originalKey="Profundidad (cm)">163</Profundidadcm>
+                <Stock>
+                </Stock>
+                <SKU>HORNONAPOLI</SKU>
+                <DescripcinparaSEO ns:originalKey="Descripción para SEO">
+                </DescripcinparaSEO>
+                <URL>https://www.grillwest.com.ar/productos/horno-pizzero-a-lena-napolitano-neoforni-napoli-ik5yu</URL>
             </item>
         </Json>
     </root>
@@ -71881,7 +72024,7 @@
         <SKU>HPR2-SOPORTE</SKU>
         <Json>
             <item>
-                <Nombre>Fogonero de Cemento con Soporte y Quemador de Hierro</Nombre>
+                <Nombre>Fogonero de Cemento Premium con Soporte de Hierro</Nombre>
                 <Categoras ns:originalKey="Categorías">FOGONEROS &gt; Quemadores Bio</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
@@ -71894,14 +72037,14 @@
                 <Precio>193900.00</Precio>
                 <Preciopromocional ns:originalKey="Precio promocional">
                 </Preciopromocional>
-                <Pesokg ns:originalKey="Peso (kg)">23.00</Pesokg>
-                <Altocm ns:originalKey="Alto (cm)">70.00</Altocm>
-                <Anchocm ns:originalKey="Ancho (cm)">3E+1</Anchocm>
-                <Profundidadcm ns:originalKey="Profundidad (cm)">3E+1</Profundidadcm>
+                <Pesokg ns:originalKey="Peso (kg)">18.00</Pesokg>
+                <Altocm ns:originalKey="Alto (cm)">35.00</Altocm>
+                <Anchocm ns:originalKey="Ancho (cm)">35</Anchocm>
+                <Profundidadcm ns:originalKey="Profundidad (cm)">75</Profundidadcm>
                 <Stock>
                 </Stock>
                 <SKU>HPR2-SOPORTE</SKU>
-                <DescripcinparaSEO ns:originalKey="Descripción para SEO">Fogonero de cemento con soporte y quemador de hierro. Funciona con bioetanol o alcohol. Seguro y práctico para cualquier rincón del hogar. ¡Compra ahora!</DescripcinparaSEO>
+                <DescripcinparaSEO ns:originalKey="Descripción para SEO">Disfrutá de la versatilidad de este fogonero de cemento Grill West con soporte de hierro. Diseño auténtico apto para interior o exterior, sin humo ni cenizas.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/fogonero-de-cemento-con-soporte-y-quemador-de-hierro</URL>
             </item>
         </Json>
@@ -72479,8 +72622,7 @@
                 <Altocm ns:originalKey="Alto (cm)">156.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">122</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">122</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>HUMMER</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Descubre el Fogonero Hummer Tromen, una parrilla completa con accesorios premium. ¡Haz tu asado perfecto! Compra ahora y disfruta del arte del asado.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/fogonero-hummer-completo-tromen</URL>
@@ -73031,8 +73173,7 @@
                 <Altocm ns:originalKey="Alto (cm)">85.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">105</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">43</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>ITAYA</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Hogar a leña de 15.700 kcal/h con diseño elegante y construcción robusta. Ideal para inviernos argentinos, ofrece calor envolvente, encendido rápido y burlete para máxima eficiencia. Dimensiones: 105x85x43 cm.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/hogar-invicta-itaya</URL>
@@ -75004,8 +75145,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Altocm ns:originalKey="Alto (cm)">7.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">1E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">25</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>JUEGORETEJDAMAS</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Juego De Trinchar Hoja Damasco Mango Retejido 15 Cm</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/juego-de-trinchar-hoja-damasco-mango-retejido-15-cm</URL>
@@ -75855,7 +75995,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
         <Json>
             <item>
                 <Nombre>Kit Calefaccion - Tromen</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Accesorios para calefacción, TROMEN &gt; CALEFACCIÓN &gt; Accesorios para calefacción</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Accesorios para calefacción, TROMEN &gt; CALEFACCIÓN &gt; Accesorios para calefacción, COLD SALE &gt; CALEFACCIÓN &gt; Accesorios para calefacción</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -75865,14 +76005,12 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>135300.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">121770.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">13.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">90.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">3E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">13</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>KITCALEFACCION</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">El Kit Calefacción Tromen incluye pala, atizador y cajón removible para cenizas. Mejora tu calefacción con eficiencia. ¡Consíguelo ahora!</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/kit-calefaccion-tromen</URL>
@@ -76568,7 +76706,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 </Nombredepropiedad2>
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
-                <Precio>52000.00</Precio>
+                <Precio>54000.00</Precio>
                 <Preciopromocional ns:originalKey="Precio promocional">
                 </Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">2.00</Pesokg>
@@ -76604,8 +76742,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Altocm ns:originalKey="Alto (cm)">145.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">68</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">8E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>KJOEBJ1</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Kamado Joe Big Joe I de 61 cm con sistema Divide &amp; Conquer® de 2 niveles, ventilación de hierro fundido y cajón de cenizas extraíble. Ideal para grandes asados y cocina profesional al aire libre.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/kamado-big-joe-i</URL>
@@ -76633,8 +76770,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Altocm ns:originalKey="Alto (cm)">145.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">75</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">9E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>KJOEBJ2</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Kamado Joe Big Joe II de 61 cm con sistema Divide &amp; Conquer® de 2 niveles, Kontrol Tower® y bisagra Air Lift(TM). Ideal para grandes reuniones, duradero y versátil.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/kamado-big-joe-ii</URL>
@@ -76662,8 +76798,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Altocm ns:originalKey="Alto (cm)">80.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">9E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">97</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>KJOEBJ2SA</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Kamado Joe Big Joe II Alone de 61 cm, empotrable, con sistema Divide &amp; Conquer® de 2 niveles, Kontrol Tower® y bisagra Air Lift(TM). Ideal para cocinas al aire libre y grandes reuniones.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/kamado-big-joe-ii-alone</URL>
@@ -76691,8 +76826,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Altocm ns:originalKey="Alto (cm)">150.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">75</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">9E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>KJOEBJ3</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Kamado Joe Big Joe III de 61 cm con sistema Divide &amp; Conquer® de 3 niveles, SloRoller®, Kontrol Tower® y carro premium. Ideal para grandes reuniones y cocina profesional al aire libre.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/kamado-big-joe-iii</URL>
@@ -76720,8 +76854,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Altocm ns:originalKey="Alto (cm)">105.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">75</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">9E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>KJOEBJ3SA</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Kamado Joe Big Joe III Alone de 61 cm con sistema Divide &amp; Conquer® de 3 niveles, SloRoller®, Kontrol Tower® y bisagra Air Lift(TM). Ideal para cocinas al aire libre y grandes asados.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/kamado-big-joe-iii-alone</URL>
@@ -76749,8 +76882,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Altocm ns:originalKey="Alto (cm)">125.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">1.2E+2</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">1.2E+2</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>KJOEC1</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Descubre la Kamado Joe Classic Joe I de 46 cm, una parrilla cerámica de carbón que ofrece versatilidad y precisión para asar, ahumar y hornear. Equipada con el sistema Divide &amp; Conquer y un cajón de cenizas deslizante para facilitar la limpieza.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/kamado-joe-classic-i</URL>
@@ -76778,8 +76910,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Altocm ns:originalKey="Alto (cm)">125.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">1.2E+2</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">1.2E+2</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>KJOEC22</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Kamado Joe Classic Joe II de 46 cm con sistema Divide &amp; Conquer® de 2 niveles, Kontrol Tower® y bisagra Air Lift(TM). Parrilla cerámica premium para cocinar y ahumar con precisión.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/kamado-joe-classic-ii</URL>
@@ -76807,8 +76938,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Altocm ns:originalKey="Alto (cm)">80.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">56</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">77</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>KJOEC22SA</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Kamado Joe Classic II Alone empotrable de 46 cm con sistema Divide &amp; Conquer®, Kontrol Tower® y bisagra Air Lift(TM). Ideal para cocinas al aire libre, duradero y versátil.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/kamado-classic-joe-ii-alone</URL>
@@ -76836,8 +76966,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Altocm ns:originalKey="Alto (cm)">130.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">1.2E+2</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">1.2E+2</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>KJOEC23</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Kamado Joe Classic Joe III de 46 cm con sistema Divide &amp; Conquer® de 3 niveles, SloRoller® para ahumar, carro de acero y control preciso de temperatura. Cocina y ahuma como un profesional.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/kamado-joe-classic-iii1</URL>
@@ -76865,8 +76994,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Altocm ns:originalKey="Alto (cm)">90.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">6E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">75</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>KJOEC23SA</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Kamado Joe Classic III Alone de 46 cm con sistema Divide &amp; Conquer® de 3 niveles, SloRoller®, Kontrol Tower® y bisagra Air Lift(TM). Ideal para cocinas al aire libre, versátil y de alto rendimiento.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/kamado-classic-joe-iii-alone</URL>
@@ -76894,8 +77022,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Altocm ns:originalKey="Alto (cm)">120.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">8E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">8E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>KJOEJR</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Kamado Joe Jr de 34 cm, portátil, con ventilación de hierro fundido, deflector de calor, rejilla de acero inoxidable y asas laterales. Ideal para camping, playa y balcones.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/kamado-joe-jr</URL>
@@ -78255,6 +78382,35 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <SKU>LEÑERORUST55CM</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Leñero rústico 50x55x20 cm, soporte 32 cm. Ideal para almacenar leña junto a chimeneas o estufas. Funcional y decorativo.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/lenero-rustico-55-cm</URL>
+            </item>
+        </Json>
+    </root>
+    <root xmlns:ns="http://www.knime.org/json2xml/originalKey/">
+        <SKU>LOIRA</SKU>
+        <Json>
+            <item>
+                <Nombre>Cocina y Estufa a Leña Loira Deville Hierro Fundido Esmaltada</Nombre>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, EQUIPAMIENTO DE COCINA &gt; Cocinas</Categoras>
+                <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
+                </Nombredepropiedad1>
+                <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
+                </Valordepropiedad1>
+                <Nombredepropiedad2 ns:originalKey="Nombre de propiedad 2">
+                </Nombredepropiedad2>
+                <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
+                </Valordepropiedad2>
+                <Precio>8910000.00</Precio>
+                <Preciopromocional ns:originalKey="Precio promocional">
+                </Preciopromocional>
+                <Pesokg ns:originalKey="Peso (kg)">150.00</Pesokg>
+                <Altocm ns:originalKey="Alto (cm)">66.00</Altocm>
+                <Anchocm ns:originalKey="Ancho (cm)">66</Anchocm>
+                <Profundidadcm ns:originalKey="Profundidad (cm)">91</Profundidadcm>
+                <Stock>
+                </Stock>
+                <SKU>LOIRA</SKU>
+                <DescripcinparaSEO ns:originalKey="Descripción para SEO">Cocina y estufa a leña Deville Loira con horno esmaltado y origen francés. Calefacción y cocción de alto rendimiento. Cuotas sin interés y envío a todo el país.</DescripcinparaSEO>
+                <URL>https://www.grillwest.com.ar/productos/cocina-y-estufa-a-lena-loira-deville</URL>
             </item>
         </Json>
     </root>
@@ -80346,8 +80502,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Altocm ns:originalKey="Alto (cm)">179.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">114</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">114</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>MARBAHCLENA</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Descubrí el Horno Ceramico Pizzero 80: cocción a leña hasta 450 °C, interior de acero inoxidable, aislamiento térmico superior y diseño artesanal con venecitas. Ideal para pizzas napolitanas y cocciones lentas.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/horno-pizzero-napolitano</URL>
@@ -84019,7 +84174,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
         <Json>
             <item>
                 <Nombre>Hogar a Leña Tromen Ombu 1120 Doble Puerta 27000 Kcal Black - Grill West</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Hogares, TROMEN &gt; CALEFACCIÓN &gt; Hogares</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Hogares, TROMEN &gt; CALEFACCIÓN &gt; Hogares, COLD SALE &gt; CALEFACCIÓN &gt; Hogares</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -84029,14 +84184,12 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>5623150.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">5060835.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">339.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">115.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">1.2E+2</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">7E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>OMBU2CARAS</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Calefactor a leña Tromen Ombu 1120 doble puerta 27000 Kcal. Gran potencia, eficiencia y guantes térmicos de regalo incluidos.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/salamandra-a-lena-ombu-1120-df-tromen</URL>
@@ -84048,7 +84201,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
         <Json>
             <item>
                 <Nombre>Hogar a Leña Tromen Ombu 1120 4 Caras 27000 Kcal Black - Grill West</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras, COLD SALE &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -84058,14 +84211,12 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>6442250.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">5798025.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">339.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">115.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">1.2E+2</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">7E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>OMBU4CARAS</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Calefactor a leña Tromen Ombu 1120 4 caras 27000 Kcal. Vista total del fuego, gran potencia y guantes térmicos de regalo.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/calefactor-ombu-1120-4-caras-tromen</URL>
@@ -84077,7 +84228,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
         <Json>
             <item>
                 <Nombre>Hogar a Leña Tromen Ombu 890 Doble Puerta 23000 Kcal Black - Grill West</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras, COLD SALE &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -84087,14 +84238,12 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>3923150.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">3530835.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">232.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">105.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">9E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">7E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>OMBUCHDP</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Calefactor a leña Tromen Ombu 890 doble puerta 23000 Kcal. Estilo rústico, gran rendimiento y guantes térmicos de regalo incluidos.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/calefactor-ombu-890-doble-puerta-tromen</URL>
@@ -84803,7 +84952,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
         <Json>
             <item>
                 <Nombre>Calefactor Pehuen 11000 Tromen</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras, COLD SALE &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -84813,14 +84962,12 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>813700.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">732330.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">124.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">97.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">66</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">55</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>P11000</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Calefactor a leña Tromen Pehuen 11000 ideal para ambientes medianos. 11.000 Kcal/h, visor Schott Robax y diseño moderno. Envío a todo el país.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/calefactor-pehuen-11000-tromen</URL>
@@ -84832,7 +84979,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
         <Json>
             <item>
                 <Nombre>Hogar Pehuen 16000 Insertable - Tromen</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Hogares, TROMEN &gt; CALEFACCIÓN &gt; Hogares</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Hogares, TROMEN &gt; CALEFACCIÓN &gt; Hogares, COLD SALE &gt; CALEFACCIÓN &gt; Hogares</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -84842,14 +84989,12 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>927400.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">834660.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">124.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">80.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">8E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">55</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>P16000</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Disfruta de calor intenso con el Calefactor Pehuen 16000. Ideal para 130 m2, cuenta con regulador de temperatura y ladrillo refractario. ¡Compra ahora!</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/hogar-pehuen-16000-insertable-tromen</URL>
@@ -85265,7 +85410,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
         <Json>
             <item>
                 <Nombre>Hogar a Leña Tromen Paris Doble Puerta 27000 Kcal Black - Grill West</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Hogares, TROMEN &gt; CALEFACCIÓN &gt; Hogares</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Hogares, TROMEN &gt; CALEFACCIÓN &gt; Hogares, COLD SALE &gt; CALEFACCIÓN &gt; Hogares</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -85275,14 +85420,12 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>7065800.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">6359220.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">374.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">115.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">1.2E+2</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">7E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>PARIS2C</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Calefactor a leña Tromen Paris doble puerta 27000 Kcal. Máxima potencia, gran capacidad y guantes térmicos de regalo incluidos.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/salamandra-a-lena-paris-df-tromen</URL>
@@ -85323,7 +85466,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
         <Json>
             <item>
                 <Nombre>Hogar a Leña Tromen Paris 4 Caras 28000 Kcal Black - Grill West</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras, TROMEN &gt; CALEFACCIÓN &gt; Salamandras, COLD SALE &gt; CALEFACCIÓN &gt; Salamandras</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -85333,14 +85476,12 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>8891400.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">8002260.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">339.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">120.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">115</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">7E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>PARIS4C</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Calefactor a leña Tromen Paris 4 caras 28000 Kcal. Vista total del fuego, gran potencia e incluye guantes térmicos de regalo.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/calefactor-paris-4-caras-tromen</URL>
@@ -86594,7 +86735,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
         <SKU>PICOLLO</SKU>
         <Json>
             <item>
-                <Nombre>Fogonero de Hierro Modelo Picollo Oxido</Nombre>
+                <Nombre>Fogonero de Hierro Rectangular Óxido 20cm</Nombre>
                 <Categoras ns:originalKey="Categorías">FOGONEROS &gt; Quemadores Bio</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
@@ -86607,9 +86748,9 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Precio>96750.00</Precio>
                 <Preciopromocional ns:originalKey="Precio promocional">
                 </Preciopromocional>
-                <Pesokg ns:originalKey="Peso (kg)">3.00</Pesokg>
-                <Altocm ns:originalKey="Alto (cm)">10.00</Altocm>
-                <Anchocm ns:originalKey="Ancho (cm)">1E+1</Anchocm>
+                <Pesokg ns:originalKey="Peso (kg)">3.50</Pesokg>
+                <Altocm ns:originalKey="Alto (cm)">25.00</Altocm>
+                <Anchocm ns:originalKey="Ancho (cm)">15</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">2E+1</Profundidadcm>
                 <Stock>
                 </Stock>
@@ -88211,8 +88352,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Altocm ns:originalKey="Alto (cm)">2.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">4</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">2E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>PRIETOJMOR</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Juego Parrillero Moradillo y Alpaca</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/juego-parrillero-moradillo-y-alpaca</URL>
@@ -88327,8 +88467,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Altocm ns:originalKey="Alto (cm)">7.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">3E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">18</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>PRIETOPLATA16"</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Descubre el cuchillo premium de plata y ébano de 16". Perfecto para coleccionistas y chefs. ¡Adquiere calidad y elegancia hoy mismo!</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/cuchillo-premium-artesanal-de-plata-y-ebano-16</URL>
@@ -88385,8 +88524,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Altocm ns:originalKey="Alto (cm)">7.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">3E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">18</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>PRIETOPLATMAP6"</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Cuchillo Premium Artesanal de Plata y Maclura 6"</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/cuchillo-premium-artesanal-de-plata-y-maclura-6</URL>
@@ -88414,8 +88552,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Altocm ns:originalKey="Alto (cm)">7.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">3E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">18</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>PRIETOPLATPAL6"</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Descubre el cuchillo artesanal 6" en acero de carbono, con cabo de plata y palisandro. Incluye vaina de cuero. ¡Añádelo a tu colección ahora!</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/cuchillo-premium-artesanal-de-plata-y-palisandro-6</URL>
@@ -91430,6 +91567,35 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
         </Json>
     </root>
     <root xmlns:ns="http://www.knime.org/json2xml/originalKey/">
+        <SKU>RODANO</SKU>
+        <Json>
+            <item>
+                <Nombre>Estufa a Leña Rodano Invicta Hierro Fundido</Nombre>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Salamandras</Categoras>
+                <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
+                </Nombredepropiedad1>
+                <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
+                </Valordepropiedad1>
+                <Nombredepropiedad2 ns:originalKey="Nombre de propiedad 2">
+                </Nombredepropiedad2>
+                <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
+                </Valordepropiedad2>
+                <Precio>5167800.00</Precio>
+                <Preciopromocional ns:originalKey="Precio promocional">
+                </Preciopromocional>
+                <Pesokg ns:originalKey="Peso (kg)">171.00</Pesokg>
+                <Altocm ns:originalKey="Alto (cm)">47.00</Altocm>
+                <Anchocm ns:originalKey="Ancho (cm)">6E+1</Anchocm>
+                <Profundidadcm ns:originalKey="Profundidad (cm)">68</Profundidadcm>
+                <Stock>
+                </Stock>
+                <SKU>RODANO</SKU>
+                <DescripcinparaSEO ns:originalKey="Descripción para SEO">Estufa a leña Invicta Rodano de hierro fundido de origen francés. Calefacción de alto rendimiento, eficiencia y gran durabilidad para tu hogar.</DescripcinparaSEO>
+                <URL>https://www.grillwest.com.ar/productos/estufa-a-lena-rodano-invicta</URL>
+            </item>
+        </Json>
+    </root>
+    <root xmlns:ns="http://www.knime.org/json2xml/originalKey/">
         <SKU>RODEO</SKU>
         <Json>
             <item>
@@ -91492,7 +91658,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
         <Json>
             <item>
                 <Nombre>Hogar a Leña Tromen Roma Doble Puerta 23000 Kcal Black - Grill West</Nombre>
-                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Hogares, TROMEN &gt; CALEFACCIÓN &gt; Hogares</Categoras>
+                <Categoras ns:originalKey="Categorías">CALEFACCIÓN &gt; Hogares, TROMEN &gt; CALEFACCIÓN &gt; Hogares, COLD SALE &gt; CALEFACCIÓN &gt; Hogares</Categoras>
                 <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
                 </Nombredepropiedad1>
                 <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
@@ -91502,14 +91668,12 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
                 </Valordepropiedad2>
                 <Precio>5052500.00</Precio>
-                <Preciopromocional ns:originalKey="Precio promocional">
-                </Preciopromocional>
+                <Preciopromocional ns:originalKey="Precio promocional">4547250.00</Preciopromocional>
                 <Pesokg ns:originalKey="Peso (kg)">232.00</Pesokg>
                 <Altocm ns:originalKey="Alto (cm)">105.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">9E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">7E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>ROMADV</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Calefactor a leña Tromen Roma doble puerta 23000 Kcal. Potente, eficiente e incluye guantes térmicos de regalo para uso seguro.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/salamandra-a-lena-roma-df-tromen</URL>
@@ -91916,8 +92080,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Altocm ns:originalKey="Alto (cm)">90.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">4E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">4E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>SALAMALPINE</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Descubre la Salamandra Alpine, importada de Europa. Con 8 kw de potencia y un diseño elegante, calienta hasta 128 m². ¡Haz tu hogar más acogedor!</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/salamandra-europea-de-fundicion-alpine</URL>
@@ -91945,8 +92108,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Altocm ns:originalKey="Alto (cm)">151.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">5E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">37</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>SALAMCHLOE</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Descubre la Salamandra Chloe OSLO, con aire secundario regulable y combustión prolongada. ¡Aprovecha el calor eficiente y limpio en tu hogar!</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/salamandra-europea-de-fundicion-chloe</URL>
@@ -92003,8 +92165,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Altocm ns:originalKey="Alto (cm)">188.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">56</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">45</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>SALAMEMMA</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Descubre la Salamandra Emma, una estufa de 8kw ideal para calentar espacios de hasta 128m². ¡Transforma tu hogar y disfruta de su elegancia y eficiencia!</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/salamandra-europea-de-fundicion-emma</URL>
@@ -92061,8 +92222,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Altocm ns:originalKey="Alto (cm)">850.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">915</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">655</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>SALAMLAROYALE</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Disfrutá la Cocina de leña La Royale Negra, 10kW, con horno y 2 fogones. Calentá tu hogar y cociná con estilo retro. ¡Comprala ahora!</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/estufa-de-lena-y-cocina-la-royale-negra-importada-de-europa</URL>
@@ -92090,8 +92250,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Altocm ns:originalKey="Alto (cm)">85.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">71</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">53</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>SALAMRIO</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Descubre la Salamandra Río con combustión prolongada, diseño ergonómico y cristal limpio. Ideal para calefaccionar tu hogar. ¡Compra ahora!</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/salamandra-europea-de-fundicion-rio</URL>
@@ -92119,8 +92278,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Altocm ns:originalKey="Alto (cm)">85.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">37</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">39</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>SALAMTANIA</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Descubre la Salamandra Tania, con combustión prolongada y cristal limpio. Garantía de origen francés. ¡Aprovecha su eficiencia y regístrala para 3 años más!</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/salamandra-europea-de-fundicion-tania</URL>
@@ -92302,15 +92460,43 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
         </Json>
     </root>
     <root xmlns:ns="http://www.knime.org/json2xml/originalKey/">
+        <SKU>SB1</SKU>
+        <Json>
+            <item>
+                <Nombre>
+                </Nombre>
+                <Categoras ns:originalKey="Categorías">
+                </Categoras>
+                <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">Color</Nombredepropiedad1>
+                <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">Blanco</Valordepropiedad1>
+                <Nombredepropiedad2 ns:originalKey="Nombre de propiedad 2">
+                </Nombredepropiedad2>
+                <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
+                </Valordepropiedad2>
+                <Precio>20900.00</Precio>
+                <Preciopromocional ns:originalKey="Precio promocional">
+                </Preciopromocional>
+                <Pesokg ns:originalKey="Peso (kg)">7.00</Pesokg>
+                <Altocm ns:originalKey="Alto (cm)">25.00</Altocm>
+                <Anchocm ns:originalKey="Ancho (cm)">15</Anchocm>
+                <Profundidadcm ns:originalKey="Profundidad (cm)">25</Profundidadcm>
+                <Stock>
+                </Stock>
+                <SKU>SB1</SKU>
+                <DescripcinparaSEO ns:originalKey="Descripción para SEO">
+                </DescripcinparaSEO>
+                <URL>https://www.grillwest.com.ar/productos/fogonero-de-cemento-estilo-cuenco</URL>
+            </item>
+        </Json>
+    </root>
+    <root xmlns:ns="http://www.knime.org/json2xml/originalKey/">
         <SKU>SBN1</SKU>
         <Json>
             <item>
-                <Nombre>Fogonero de Cemento Estilo Cuenco Negro</Nombre>
+                <Nombre>Fogonero de Cemento Estilo Cuenco 20cm</Nombre>
                 <Categoras ns:originalKey="Categorías">FOGONEROS &gt; Quemadores Bio</Categoras>
-                <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
-                </Nombredepropiedad1>
-                <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
-                </Valordepropiedad1>
+                <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">Color</Nombredepropiedad1>
+                <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">Negro</Valordepropiedad1>
                 <Nombredepropiedad2 ns:originalKey="Nombre de propiedad 2">
                 </Nombredepropiedad2>
                 <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
@@ -92318,15 +92504,15 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Precio>24000.00</Precio>
                 <Preciopromocional ns:originalKey="Precio promocional">
                 </Preciopromocional>
-                <Pesokg ns:originalKey="Peso (kg)">6.00</Pesokg>
-                <Altocm ns:originalKey="Alto (cm)">10.00</Altocm>
-                <Anchocm ns:originalKey="Ancho (cm)">2E+1</Anchocm>
-                <Profundidadcm ns:originalKey="Profundidad (cm)">2E+1</Profundidadcm>
+                <Pesokg ns:originalKey="Peso (kg)">7.00</Pesokg>
+                <Altocm ns:originalKey="Alto (cm)">25.00</Altocm>
+                <Anchocm ns:originalKey="Ancho (cm)">15</Anchocm>
+                <Profundidadcm ns:originalKey="Profundidad (cm)">25</Profundidadcm>
                 <Stock>
                 </Stock>
                 <SKU>SBN1</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Descubrí el Fogonero de Cemento Negro, ideal para interiores y exteriores. Funciona con bioetanol, sin humo ni cenizas. ¡Comprá ahora!</DescripcinparaSEO>
-                <URL>https://www.grillwest.com.ar/productos/fogonero-de-cemento-estilo-cuenco-negro</URL>
+                <URL>https://www.grillwest.com.ar/productos/fogonero-de-cemento-estilo-cuenco</URL>
             </item>
         </Json>
     </root>
@@ -97690,8 +97876,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Altocm ns:originalKey="Alto (cm)">80.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">62</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">29</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>UUP0A100</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Horno Ooni Karu 12, portátil de acero inoxidable, usa leña, carbón o gas. Alcanza 500 °C en 15 min y cocina pizzas de 12´´ en 60 s. Compacto, solo 12 kg. Compatible con todos los hornos Ooni.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/horno-pizzero-karu-12-ooni</URL>
@@ -97806,8 +97991,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Altocm ns:originalKey="Alto (cm)">40.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">6E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">66</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>UUP0AB00</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Vive la experiencia culinaria con el Horno Koda 16 Ooni, alcanzando 510°C. Compatible con gas propano o natural. ¡Cocina como un profesional!</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/horno-koda-16-ooni</URL>
@@ -97864,8 +98048,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Altocm ns:originalKey="Alto (cm)">73.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">4E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">75</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>UUP0AD00</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Horno pizzero Ooni Fyra 12 a pellets. Cocina pizzas de 12´´ en 60 segundos, alcanza 500 °C y es portátil. Ideal para balcones, patios y cocina al aire libre con sabor a leña.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/horno-pizzero-portatil-fyra-12</URL>
@@ -98066,8 +98249,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Altocm ns:originalKey="Alto (cm)">90.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">6E+1</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">4E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>UUP0E400</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Descubrí el Ooni Karu 16: horno pizzero a leña, carbón o gas (opcional), alcanza 500 °C en 15 minutos y cocina pizzas de 40 cm en solo 60 segundos. Ideal para cocinar al aire libre con versatilidad y rendimiento profesional.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/horno-pizzero-karu-16-ooni</URL>
@@ -98594,6 +98776,35 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
         </Json>
     </root>
     <root xmlns:ns="http://www.knime.org/json2xml/originalKey/">
+        <SKU>VCS001</SKU>
+        <Json>
+            <item>
+                <Nombre>Vela de Cera de Soja en Recipiente de Cemento Octogonal 40 ml</Nombre>
+                <Categoras ns:originalKey="Categorías">REGALOS &gt; HOGAR Y EXTERIORES &gt; Velas y aromas, HOGAR Y EXTERIORES &gt; Velas y aromas</Categoras>
+                <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
+                </Nombredepropiedad1>
+                <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
+                </Valordepropiedad1>
+                <Nombredepropiedad2 ns:originalKey="Nombre de propiedad 2">
+                </Nombredepropiedad2>
+                <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
+                </Valordepropiedad2>
+                <Precio>7500.00</Precio>
+                <Preciopromocional ns:originalKey="Precio promocional">
+                </Preciopromocional>
+                <Pesokg ns:originalKey="Peso (kg)">0.60</Pesokg>
+                <Altocm ns:originalKey="Alto (cm)">15.00</Altocm>
+                <Anchocm ns:originalKey="Ancho (cm)">15</Anchocm>
+                <Profundidadcm ns:originalKey="Profundidad (cm)">15</Profundidadcm>
+                <Stock>
+                </Stock>
+                <SKU>VCS001</SKU>
+                <DescripcinparaSEO ns:originalKey="Descripción para SEO">Vela de cera de soja de 40 ml en recipiente octogonal de cemento reutilizable como maceta. Diseño único y combustión limpia. Descubrí el catálogo Grill West.</DescripcinparaSEO>
+                <URL>https://www.grillwest.com.ar/productos/vela-de-cera-de-soja-octogonal</URL>
+            </item>
+        </Json>
+    </root>
+    <root xmlns:ns="http://www.knime.org/json2xml/originalKey/">
         <SKU>VDROMBU1120</SKU>
         <Json>
             <item>
@@ -98990,8 +99201,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Altocm ns:originalKey="Alto (cm)">88.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">79</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">67</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>W30</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">La Cocina W30 Patagon Chef Grill West incluye 4 hornallas de acero inoxidable, horno reforzado con doble vidrio, encendido electrónico y válvulas de seguridad.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/cocina-patagon-w30</URL>
@@ -99019,8 +99229,7 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <Altocm ns:originalKey="Alto (cm)">90.00</Altocm>
                 <Anchocm ns:originalKey="Ancho (cm)">1.6E+2</Anchocm>
                 <Profundidadcm ns:originalKey="Profundidad (cm)">7E+1</Profundidadcm>
-                <Stock>
-                </Stock>
+                <Stock>10</Stock>
                 <SKU>W60</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Descubrí la Cocina Patagon Chef Grill West, con 4 hornallas de acero inoxidable, doble horno reforzado, válvulas de seguridad, encendido electrónico y accesorios como aro para wok y bifera teflonada. Calidad profesional y tradición para tu cocina.</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/cocina-patagon-chef-w60</URL>
@@ -99519,6 +99728,35 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
         </Json>
     </root>
     <root xmlns:ns="http://www.knime.org/json2xml/originalKey/">
+        <SKU>acmc</SKU>
+        <Json>
+            <item>
+                <Nombre>Asador Criollo Malambo 42x70cm de Hierro</Nombre>
+                <Categoras ns:originalKey="Categorías">PARRILLAS &gt; Accesorios para parrillas, FOGONEROS &gt; Accesorios para fogoneros</Categoras>
+                <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
+                </Nombredepropiedad1>
+                <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
+                </Valordepropiedad1>
+                <Nombredepropiedad2 ns:originalKey="Nombre de propiedad 2">
+                </Nombredepropiedad2>
+                <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
+                </Valordepropiedad2>
+                <Precio>131350.00</Precio>
+                <Preciopromocional ns:originalKey="Precio promocional">
+                </Preciopromocional>
+                <Pesokg ns:originalKey="Peso (kg)">15.00</Pesokg>
+                <Altocm ns:originalKey="Alto (cm)">21.00</Altocm>
+                <Anchocm ns:originalKey="Ancho (cm)">48</Anchocm>
+                <Profundidadcm ns:originalKey="Profundidad (cm)">76</Profundidadcm>
+                <Stock>
+                </Stock>
+                <SKU>acmc</SKU>
+                <DescripcinparaSEO ns:originalKey="Descripción para SEO">Asador criollo Malambo de hierro 42x70cm con base giratoria 360°. Calidad y durabilidad. Comprá en Grill West en cuotas sin interés con envíos a todo el país.</DescripcinparaSEO>
+                <URL>https://www.grillwest.com.ar/productos/asador-criollo-malambo-42x70cm</URL>
+            </item>
+        </Json>
+    </root>
+    <root xmlns:ns="http://www.knime.org/json2xml/originalKey/">
         <SKU>crzlbrivrgd</SKU>
         <Json>
             <item>
@@ -99573,6 +99811,35 @@ Incluye caja con visor. ¡Compralo ya!</DescripcinparaSEO>
                 <SKU>dscplnc/tpypts</SKU>
                 <DescripcinparaSEO ns:originalKey="Descripción para SEO">Disco de Arado Cóncavo con Tapa y Patas, ideal para recetas tradicionales. Diámetro: 50 cm, altura total: 10 cm. Prepara platos exquisitos. ¡Compra ahora!</DescripcinparaSEO>
                 <URL>https://www.grillwest.com.ar/productos/disco-de-arado-concavo-con-tapa-y-patas</URL>
+            </item>
+        </Json>
+    </root>
+    <root xmlns:ns="http://www.knime.org/json2xml/originalKey/">
+        <SKU>h0104</SKU>
+        <Json>
+            <item>
+                <Nombre>Asador Libro Grande de Hierro Grill West 52x96cm con Pie</Nombre>
+                <Categoras ns:originalKey="Categorías">PARRILLAS &gt; Accesorios para parrillas, FOGONEROS &gt; Accesorios para fogoneros</Categoras>
+                <Nombredepropiedad1 ns:originalKey="Nombre de propiedad 1">
+                </Nombredepropiedad1>
+                <Valordepropiedad1 ns:originalKey="Valor de propiedad 1">
+                </Valordepropiedad1>
+                <Nombredepropiedad2 ns:originalKey="Nombre de propiedad 2">
+                </Nombredepropiedad2>
+                <Valordepropiedad2 ns:originalKey="Valor de propiedad 2">
+                </Valordepropiedad2>
+                <Precio>152950.00</Precio>
+                <Preciopromocional ns:originalKey="Precio promocional">
+                </Preciopromocional>
+                <Pesokg ns:originalKey="Peso (kg)">20.00</Pesokg>
+                <Altocm ns:originalKey="Alto (cm)">21.00</Altocm>
+                <Anchocm ns:originalKey="Ancho (cm)">58</Anchocm>
+                <Profundidadcm ns:originalKey="Profundidad (cm)">102</Profundidadcm>
+                <Stock>
+                </Stock>
+                <SKU>h0104</SKU>
+                <DescripcinparaSEO ns:originalKey="Descripción para SEO">Asador libro de hierro Grill West de 52x96cm con pie. Sistema de parrillas enfrentadas ideal para cortes grandes. Cuotas sin interés y envíos a todo el país.</DescripcinparaSEO>
+                <URL>https://www.grillwest.com.ar/productos/asador-libro-grande-de-hierro-52x96cm</URL>
             </item>
         </Json>
     </root>
